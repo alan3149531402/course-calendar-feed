@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "last_success_at": "2026-11-16T09:37:15+00:00",
-  "last_checked_at": "2026-11-16T09:37:15+00:00",
-  "semantic_sha256": "d21dcfe3e756eeb652f6bf0f23d3599f5dd7cd1a60a9b9932d2eae1acbe88129",
+  "last_success_at": "2026-11-17T03:49:49+00:00",
+  "last_checked_at": "2026-11-17T03:49:49+00:00",
+  "semantic_sha256": "1cc4861c053e0ae3f5c8096ecfbb645018d13ee2b5dabe49e96111af555f4853",
   "login_renewed": true,
   "automatic_refresh": true,
   "check_interval": "hourly",
   "semester": "2026-2027-1",
-  "source_events": 147,
-  "events": 120,
+  "source_events": 146,
+  "events": 119,
   "removed_events": 27,
   "removed_locations": {
     "线上虚拟6": 8,
@@ -19,7 +19,7 @@
   "course_counts": {
     "军事理论": 9,
     "大学英语（一）": 30,
-    "美育基础": 16,
+    "美育基础": 15,
     "思想道德与法治": 22,
     "习近平经济思想概论": 9,
     "大学生心理健康教育": 10,
@@ -30,6 +30,6 @@
   "untimed_source_notes": [
     "军事技能 10-11周;入学教育 叶家俊 12-18周;"
   ],
-  "last_changed_at": "2026-11-04T03:55:02+00:00",
-  "ics_sha256": "8e2f43915cb5679b51d5a569fd23615ce1df092055d39162b93689607621b0a7"
+  "last_changed_at": "2026-11-17T03:49:49+00:00",
+  "ics_sha256": "154e19833d1a3c3fe8af73670d8fa6e3f12d37d2a943950f6b70e7a884c2818a"
 }
