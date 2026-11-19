@@ -1,8 +1,8 @@
 {
   "status": "ok",
-  "last_success_at": "2026-11-18T13:06:42+00:00",
-  "last_checked_at": "2026-11-18T13:06:42+00:00",
-  "semantic_sha256": "1cc4861c053e0ae3f5c8096ecfbb645018d13ee2b5dabe49e96111af555f4853",
+  "last_success_at": "2026-11-19T03:23:23+00:00",
+  "last_checked_at": "2026-11-19T03:23:23+00:00",
+  "semantic_sha256": "13678fc01bd4f947b1f91049754e83e76631fab5e0733b73379408686a7ed654",
   "login_renewed": true,
   "automatic_refresh": true,
   "check_interval": "hourly",
@@ -30,6 +30,6 @@
   "untimed_source_notes": [
     "军事技能 10-11周;入学教育 叶家俊 12-18周;"
   ],
-  "last_changed_at": "2026-11-17T03:49:49+00:00",
-  "ics_sha256": "154e19833d1a3c3fe8af73670d8fa6e3f12d37d2a943950f6b70e7a884c2818a"
+  "last_changed_at": "2026-11-19T03:23:23+00:00",
+  "ics_sha256": "c2af1eb35bb59f94e1084ba828df0a474df5ec7a22a449af6bf99122713274a0"
 }
