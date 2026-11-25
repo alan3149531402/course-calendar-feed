@@ -1,11 +1,14 @@
 {
   "status": "ok",
-  "last_success_at": "2026-11-24T05:59:04+00:00",
-  "last_checked_at": "2026-11-24T05:59:04+00:00",
+  "last_success_at": "2026-11-25T02:23:11+00:00",
+  "last_checked_at": "2026-11-25T02:23:11+00:00",
   "semantic_sha256": "1ade68f046dc47aa642b396fc4e718208c213e61c9fcc85218dbad145f476560",
   "login_renewed": true,
   "automatic_refresh": true,
-  "check_interval": "hourly",
+  "check_interval": "daily",
+  "execution_environment": "github-actions",
+  "trigger": "schedule",
+  "cloud_run_id": "45532508592",
   "semester": "2026-2027-1",
   "source_events": 147,
   "events": 120,
@@ -28,8 +31,16 @@
     "形势与政策（一）": 4
   },
   "untimed_source_notes": [
-    "军事技能 10-11周;入学教育 叶家俊 12-18周;"
+    "军事技能 军训教官 10-11周;入学教育 叶家俊 12-18周;"
   ],
+  "daily_schedule": {
+    "timezone": "Asia/Shanghai",
+    "hour": 9,
+    "minute": 0,
+    "window_start_hour": 9,
+    "window_end_hour": 20
+  },
+  "retry_interval": "next hourly GitHub schedule inside daytime window after failure",
   "last_changed_at": "2026-11-23T08:59:06+00:00",
   "ics_sha256": "225d9168a879f8c5c573539340bf43259c1692962757243f63e77259802ecd75"
 }
